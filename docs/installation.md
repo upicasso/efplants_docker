@@ -3,7 +3,7 @@
 
 1. Clone inside your development folder the docker repository by this commnd:
 ```
-git clone git@bitbucket.org:x/docker.git
+git@github.com:upicasso/efplants_docker.git```
 ```
 
 2. Download app repository and extract it to folder ~/effectiveplants-docker-3086621e3e54/app 
