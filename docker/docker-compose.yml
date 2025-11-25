@@ -18,7 +18,7 @@ services:
       - symfony-network
 
   php:
-    container_name: "${CONTAINER_PREFIX_NAME}-php"
+    container_name: app-symfony-php
     build:
       context: ./php
     expose:
